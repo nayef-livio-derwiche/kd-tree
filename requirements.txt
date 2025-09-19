@@ -1,0 +1,4 @@
+# Required packages for the kd-tree project
+numpy>=1.19.0
+matplotlib>=3.3.0
+cython>=0.29.0
